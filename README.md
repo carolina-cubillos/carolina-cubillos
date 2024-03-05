@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Carolina 👨‍💻​💚​</h1>
-<h3 align="center">A passionate Data Analyst from Chile 🇨🇱.</h3>
-<img align="center" alt="Coding" width="1905" src="https://www.canva.com/design/DAF-j-ZjLTo/bw31__cmwUS-HwlvP6C4mw/edit?utm_content=DAF-j-ZjLTo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+<h1 align="center">Hi 👋, I'm Carolina 👨‍💻​🧡​</h1>
+<h3 align="center">A passionate Data Analyst📊 from Chile 🇨🇱.</h3>
+<img align="center" alt="Coding" src="https://github.com/carolina-cubillos/carolina-cubillos/blob/main/Disen%CC%83o%20sin%20ti%CC%81tulo.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carolina-cubillos5&label=Profile%20views&color=0e75b6&style=flat" alt="carolina-cubillos" /> </p>
 
